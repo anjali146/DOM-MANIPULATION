@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: Arial, sans-serif;
+    background-color: white;
+    transition: background-color 0.3s ease;
+}
+
+h2 {
+    color: black;
+    text-shadow: 1px 1px 5px rgba(0, 0, 0, 0.3);
+}
+#colorCode{
+    font-size: 20px;
+    
+}
